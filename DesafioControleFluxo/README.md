@@ -1,9 +1,7 @@
-# dio-trilha-java-validacao
-
 # Contador
 
 ## Descrição
-Este programa solicita informações do usuário para realizar a contagem de números entre dois parâmetros fornecidos pelo usuário e imprimir, faz uma validação e dispara uma exceção quando o segundo parametro é menor que o primeiro.
+Este programa solicita informações do usuário para realizar a contagem de números entre dois parâmetros fornecidos pelo usuário e imprimir.
 
 ## Pré-requisitos
 - Java instalado
