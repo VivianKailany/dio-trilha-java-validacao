@@ -17,7 +17,7 @@ Para compilar e executar este programa, siga estas etapas:
 |--------------------------------------------------|----------------------------------------------|
 | 1. Abra um terminal.                             |                                              |
 | 2. Navegue até o diretório do arquivo           | `cd /caminho/do/diretorio`                   |
-|    ContaTerminal.java.                           |                                              |
+|    Contador.java.                            |                                              |
 | 3. Compile o programa.                           | `javac Contador.java`                   |
 | 4. Execute o programa.                           | `java ContaTerminal`                         |
 | 5. Siga as instruções fornecidas pelo programa. |                                              |
